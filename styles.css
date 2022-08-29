@@ -2,3 +2,9 @@ body {color: red;
 
     font-family: Tahoma, SansSerif
 }
+
+ul {
+
+    list-style: none;
+    border: 1px dotted red;
+}
